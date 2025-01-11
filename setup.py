@@ -8,7 +8,7 @@ setup(
     version="0.1.0",
     author="Aldo Jacopo Virno, Andrea Bucchignani",
     author_email="aldojacopo@gmail.com, andreabucchignani@gmail.com",
-    description="A semantic search engine using BERT embeddings and TF-IDF scoring",
+    description="A hybrid document search engine combining BERT embeddings and TF-IDF for intelligent semantic retrieval and ranking of documents",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/aldojacopovirno/SemanticRetrievalEngine",
