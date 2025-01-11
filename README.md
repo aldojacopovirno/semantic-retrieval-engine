@@ -12,6 +12,7 @@ A Python-based semantic search engine that uses BERT embeddings and TF-IDF to fi
 
 ## Repository Structure
 
+```bash
 semantic_retrieval_engine/
 ├── src/
 │   ├── __init__.py
@@ -37,6 +38,7 @@ semantic_retrieval_engine/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 ## Installation
 
