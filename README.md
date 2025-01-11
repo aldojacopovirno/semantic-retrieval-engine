@@ -7,8 +7,7 @@ A Python-based semantic search engine that combines BERT (Bidirectional Encoder 
 - BERT-based semantic document embeddings
 - TF-IDF scoring for keyword relevance
 - Hybrid ranking system combining multiple relevance signals
-- Detailed search results with various metrics
-- Easy-to-use command line interface
+- Detailed search results with metrics
 
 ## Repository Structure
 
