@@ -75,7 +75,7 @@ python -m semantic_retrieval_engine.src.main
 - PyTorch
 - Transformers
 - scikit-learn
-- Other dependencies listed in requirements.txt
+- Other dependencies listed in [requirements](requirements.txt)
 
 ## License
 
