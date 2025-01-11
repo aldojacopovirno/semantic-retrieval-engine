@@ -91,7 +91,7 @@ If you use this system in your research, please cite:
 
 ```bibtex
 @software{SemanticRetrievalEngine,
-  title = {Semantic Retrieval Engine},
+  title = {Semantic Retrieval Engine: A Multi-Feature Model for Contextual and Keyword-Aware Search},
   author = {Aldo Jacopo Virno, Andrea Bucchignani},
   year = {2025},
   url = {https://github.com/aldojacopovirno/SemanticRetrievalEngine}
