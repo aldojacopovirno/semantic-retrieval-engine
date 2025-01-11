@@ -10,6 +10,34 @@ A Python-based semantic search engine that uses BERT embeddings and TF-IDF to fi
 - Detailed search results with various metrics
 - Easy-to-use command line interface
 
+## Repository Structure
+
+semantic_retrieval_engine/
+├── src/
+│   ├── __init__.py
+│   ├── embedders/
+│   │   ├── __init__.py
+│   │   └── bert_embedder.py
+│   ├── loaders/
+│   │   ├── __init__.py
+│   │   └── document_loader.py
+│   ├── scorers/
+│   │   ├── __init__.py
+│   │   └── tfidf_scorer.py
+│   ├── calculators/
+│   │   ├── __init__.py
+│   │   ├── similarity_calculator.py
+│   │   └── relevance_calculator.py
+│   ├── displayers/
+│   │   ├── __init__.py
+│   │   └── results_displayer.py
+│   └── main.py
+├── requirements.txt
+├── setup.py
+├── README.md
+├── LICENSE
+└── .gitignore
+
 ## Installation
 
 ```bash
