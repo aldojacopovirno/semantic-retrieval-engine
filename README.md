@@ -69,21 +69,9 @@ python -m semantic_retrieval_engine.src.main
 4. Enter your search query
 5. View results in the console and in the generated report
 
-## Requirements
-
-- Python 3.8+
-- PyTorch
-- Transformers
-- scikit-learn
-- Other dependencies listed in [requirements](requirements.txt)
-
-## License
-
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome. Please feel free to submit a Pull Request.
 
 ## Citation
 
@@ -98,7 +86,6 @@ If you use this system in your research, please cite:
 }
 ```
 
-## Contact
+## License
 
-- Aldo Jacopo Virno - aldojacopo@gmail.com
-- Andrea Bucchignani - andreabucchignani@gmail.com
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
