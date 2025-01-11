@@ -7,7 +7,7 @@ setup(
     name="semantic-retrieval-engine",
     version="0.1.0",
     author="Aldo Jacopo Virno, Andrea Bucchignani",
-    author_email="aldojacopo@gmail.com, ",
+    author_email="aldojacopo@gmail.com, andreabucchignani@gmail.com",
     description="A semantic search engine using BERT embeddings and TF-IDF scoring",
     long_description=long_description,
     long_description_content_type="text/markdown",
