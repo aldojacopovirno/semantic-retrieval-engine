@@ -24,6 +24,13 @@ setup(
         "Programming Language :: Python :: 3.10",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "Topic :: Text Processing :: General",
+        "Topic :: Text Processing :: Indexing",
+        "Topic :: Text Processing :: Linguistic",
+        "Topic :: Information Retrieval",
+        "Topic :: Software Development :: Libraries :: Python Modules",
+        "Topic :: Scientific/Engineering :: Information Analysis",
+        "Topic :: Office/Business :: Office Suites",
+        "Topic :: Database :: Database Engines/Servers",
     ],
     python_requires=">=3.8",
     install_requires=[
@@ -47,8 +54,8 @@ setup(
         ],
     },
     project_urls={
-        "Bug Reports": "https://github.com/aldojacopovirno/SemanticRetrievalEngine/issues",
-        "Source": "https://github.com/aldojacopovirno/SemanticRetrievalEngine",
+        "Bug Reports": "https://github.com/yourusername/SemanticRetrievalEngine/issues",
+        "Source": "https://github.com/yourusername/SemanticRetrievalEngine",
     },
     license="Apache License 2.0",
 )
