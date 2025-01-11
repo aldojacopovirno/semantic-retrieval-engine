@@ -1,6 +1,6 @@
-# Semantic Retrieval Engine
+# Semantic Retrieval Engine: A Multi-Feature Model for Contextual and Keyword-Aware Search
 
-A Python-based semantic search engine that uses BERT embeddings and TF-IDF to find relevant documents based on natural language queries.
+A Python-based semantic search engine that combines BERT (Bidirectional Encoder Representations from Transformers) embeddings and TF-IDF (Term Frequency-Inverse Document Frequency) for intelligent document retrieval and ranking. This system leverages advanced Natural Language Processing techniques to provide highly accurate and context-aware document search capabilities.
 
 ## Features
 
