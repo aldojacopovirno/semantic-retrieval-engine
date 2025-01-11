@@ -77,12 +77,6 @@ python -m semantic_retrieval_engine.src.main
 - scikit-learn
 - Other dependencies listed in requirements.txt
 
-## Documentation
-
-See the [docs](docs/) directory for detailed documentation:
-- [API Documentation](docs/API.md)
-- [Usage Guide](docs/USAGE.md)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
