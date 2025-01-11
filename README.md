@@ -84,3 +84,21 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Citation
+
+If you use this system in your research, please cite:
+
+```bibtex
+@software{SemanticRetrievalEngine,
+  title = {Semantic Retrieval Engine},
+  author = {Aldo Jacopo Virno, Andrea Bucchignani},
+  year = {2025},
+  url = {https://github.com/aldojacopovirno/SemanticRetrievalEngine}
+}
+```
+
+## Contact
+
+- Aldo Jacopo Virno - aldojacopo@gmail.com
+- Andrea Bucchignani - andreabucchignani@gmail.com
