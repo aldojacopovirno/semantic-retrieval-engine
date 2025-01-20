@@ -50,7 +50,6 @@ pip install -r requirements.txt
 ```python
 from semantic_retrieval_engine.src.main import main
 
-# Run the search engine
 main()
 ```
 
